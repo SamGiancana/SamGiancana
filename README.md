@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 🏆 Trophies
+## Trophies
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
