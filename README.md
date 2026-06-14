@@ -26,21 +26,7 @@
 </td>
 <td>
 
-```
-ilusha@github
-─────────────────────────────
-  OS        Cyberspace
-  Host      github.com/SamGiancana
-  Shell     zsh
-  Editor    the terminal
-  Uptime    online ⚡
-  Langs     JS · TS · Python
-  Learning  everything, always
-  Theme     black & white
-  Contact   t.me/iluushk
-─────────────────────────────
-  ████ ████ ████ ████ ████ ████
-```
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote"/>
 
 </td>
 </tr>
