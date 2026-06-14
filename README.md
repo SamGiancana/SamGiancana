@@ -18,19 +18,13 @@
 
 </div>
 
-<!-- ░░░ AVATAR + ABOUT ░░░ -->
-<table>
-<tr>
-<td width="200" align="center">
+<!-- ░░░ AVATAR ░░░ -->
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/183609731?v=4" width="170" alt="avatar"/>
-</td>
-<td>
+</div>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote"/>
-
-</td>
-</tr>
-</table>
+<!-- ░░░ QUOTE (one line, full width) ░░░ -->
+<p align="center"><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></p>
 
 ---
 
