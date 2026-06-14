@@ -56,8 +56,6 @@ const ilusha = {
 ![React](https://img.shields.io/badge/React-1c1c1c?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1c1c1c?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1c1c1c?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-1c1c1c?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-1c1c1c?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1c1c1c?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
