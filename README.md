@@ -45,12 +45,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SamGiancana&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=9e9e9e&bg_color=010409" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamGiancana&layout=compact&hide_border=true&title_color=ffffff&text_color=9e9e9e&bg_color=010409" alt="top langs"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SamGiancana&hide_border=true&background=010409&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9e9e9e&dates=6e6e6e&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SamGiancana&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=9e9e9e&bg_color=010409" alt="stats"/>
 
 </div>
 
