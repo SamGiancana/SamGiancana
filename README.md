@@ -26,15 +26,20 @@
 </td>
 <td>
 
-### `> whoami`
-
-```ts
-const ilusha = {
-  alias:    "SamGiancana",
-  status:   "online ⚡",
-  vibe:     "black, white & clean code",
-  learning: "everything, always",
-};
+```
+ilusha@github
+─────────────────────────────
+  OS        Cyberspace
+  Host      github.com/SamGiancana
+  Shell     zsh
+  Editor    the terminal
+  Uptime    online ⚡
+  Langs     JS · TS · Python
+  Learning  everything, always
+  Theme     black & white
+  Contact   t.me/iluushk
+─────────────────────────────
+  ████ ████ ████ ████ ████ ████
 ```
 
 </td>
