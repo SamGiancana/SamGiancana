@@ -18,13 +18,8 @@
 
 </div>
 
-<!-- ░░░ AVATAR ░░░ -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/183609731?v=4" width="170" alt="avatar"/>
-</div>
-
-<!-- ░░░ QUOTE (one line, full width) ░░░ -->
-<p align="center"><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></p>
+<!-- ░░░ QUOTE (one line, full width, big) ░░░ -->
+<h2 align="center"><i>"Talk is cheap. Show me the code." — Linus Torvalds</i></h2>
 
 ---
 
