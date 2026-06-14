@@ -47,7 +47,6 @@
 ![React](https://img.shields.io/badge/React-1c1c1c?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-1c1c1c?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1c1c1c?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1c1c1c?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
