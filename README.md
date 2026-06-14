@@ -47,8 +47,18 @@ const ilusha = {
 
 <div align="center">
 
-<!-- Отредактируй список под себя: https://skillicons.dev -->
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,git,github,vscode,linux&theme=dark&perline=6" alt="tech stack"/>
+<!-- Монохромные бейджи. Цвет всех одинаковый (1c1c1c). Меняй/добавляй по образцу. -->
+![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1c1c1c?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1c1c1c?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-1c1c1c?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1c1c1c?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-1c1c1c?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1c1c1c?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1c1c1c?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1c1c1c?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-1c1c1c?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1c1c1c?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
 
